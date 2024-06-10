@@ -1,0 +1,19 @@
++warn : "+warn @username sebep" etiketlenen kullanıcıya verilen sebeple warn atar. Eğer sebep belirtilmezse otomatik olarak "Sebep Belirtilmemiş" olarak sebep atar. Kullanıcıyı etiketlemek yerine id'si kullanılabilir.
+
++warnings : "+warnings @username" etiketlenen kullanıcının warnlarına bakmanızı sağlar. Kullanıcıyı etiketlemek yerine id'si kullanılabilir.
+
++clearwarnings : "+clearwarnings @username" etiketlenen kullanıcının tüm warnlarını temizler. Kullanıcıyı etiketlemek yerine id'si kullanılabilir.
+
++delwarn : "+delwarn @username 1" etiketlenen kullanıcının sayıyla belirtilen warnını siler. Kullanıcıyı etiketlemek yerine id'si kullanılabilir.
+
++logs : "+logs" botun yaptığı işlemlere bakmanızı sağlar.
+
++denemeler : "+denemeler" yetkisi olmayan kişilerin yapmaya çalıştığı işlemler gösterilir.
+
++clearwarnall : "+clearwarnall" tüm kullanıcıların atılan tüm warnları temizler. Sadece miruas ve captainsp kullanabilir.
+
+
+
++clearwarnall HARİCİ TÜM KOMUTLAR SADECE "Etkinlik Sorumlusu" TARAFINDAN KULLANILABİLİR
+
+miruas tarafından yapıldı - made by miruas
